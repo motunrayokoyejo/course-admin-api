@@ -23,7 +23,10 @@ docker build -t my_python_app .
 
 ### Run the Docker Container:
 
-docker run -d -p 80:80 my_python_app
+docker run -d -p 8080:80 my_python_app
 
-The application will be accessible at http://localhost:80.
+The application will be accessible at http://localhost:8080.
+
+### Documentation
+Code documentation can be found at http://localhost:8080/docs
 
