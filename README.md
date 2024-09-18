@@ -12,8 +12,8 @@ Ensure you have the following installed:
 ### Clone the Repository
 To clone this repository, use the following command:
 
-git clone https://github.com/motunrayokoyejo/course-admin-api/
-cd course-admin-api
+- git clone https://github.com/motunrayokoyejo/course-admin-api/
+- cd course-admin-api
 
 ### Run the Application
 
